@@ -25,6 +25,15 @@ android {
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
 
+   /* productFlavors{
+        free{
+                applicationId "com.udacity.gradle.builditbigger.free"
+        }
+        paid{
+                applicationId "com.udacity.gradle.builditbigger.paid"
+        }
+    }*/
+
     buildTypes {
         release {
             minifyEnabled false

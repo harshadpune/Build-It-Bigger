@@ -29,7 +29,14 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="JavaJokeTeller" exported="" />
     <orderEntry type="module" module-name="JavaJokeTeller" exported="" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="appengine-maven-plugin-1.9.64" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="endpoints-framework-tools-2.0.9" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="endpoints-framework-2.0.9" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="maven-core-3.5.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="guice-4.0-no_aop" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="maven-plugin-api-3.5.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="org.eclipse.sisu.plexus-0.3.3" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="cdi-api-1.0" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="javax.inject-1" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="google-api-client-appengine-1.21.0" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="google-oauth-client-appengine-1.21.0" level="project" />
@@ -39,7 +46,9 @@
     <orderEntry type="library" exported="" scope="PROVIDED" name="google-api-client-1.23.0" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="google-http-client-android-1.23.0" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="swagger-core-1.5.9" level="project" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="guava-19.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="maven-resolver-provider-3.5.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="maven-model-builder-3.5.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="guava-20.0" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="swagger-models-1.5.9" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="jackson-databind-2.6.4" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="jackson-annotations-2.6.4" level="project" />
@@ -54,20 +63,51 @@
     <orderEntry type="library" exported="" scope="PROVIDED" name="google-http-client-1.23.0" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="jsr305-3.0.1" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="slf4j-nop-1.7.21" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="appengine-tools-sdk-1.9.64" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="annotation-detector-3.0.5" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="maven-invoker-2.2" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="slf4j-api-1.7.21" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="swagger-annotations-1.5.9" level="project" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="commons-lang3-3.2.1" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="maven-model-3.5.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="maven-settings-builder-3.5.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="maven-artifact-3.5.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="maven-builder-support-3.5.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="commons-lang3-3.5" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="validation-api-1.1.0.Final" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="maven-settings-3.5.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="maven-repository-metadata-3.5.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="maven-resolver-impl-1.0.3" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="maven-resolver-spi-1.0.3" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="maven-resolver-util-1.0.3" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="maven-resolver-api-1.0.3" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="maven-shared-utils-3.1.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="plexus-interpolation-1.24" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="plexus-sec-dispatcher-1.4" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="plexus-utils-3.0.24" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="plexus-classworlds-2.5.2" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="plexus-component-annotations-1.7.1" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="jdo2-api-2.3-eb" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="joda-time-2.2" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="snakeyaml-1.12" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="commons-io-2.5" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="org.eclipse.sisu.inject-0.3.3" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="aopalliance-1.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="plexus-cipher-1.4" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="transaction-api-1.1" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="jsr250-api-1.0" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="guava-jdk5-17.0" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="httpclient-4.0.1" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="httpcore-4.0.1" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="commons-logging-1.1.1" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="commons-codec-1.3" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="appengine-maven-plugin-1.9.64" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="endpoints-framework-tools-2.0.9" level="project" />
     <orderEntry type="library" exported="" scope="RUNTIME" name="endpoints-framework-2.0.9" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="maven-core-3.5.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="guice-4.0-no_aop" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="maven-plugin-api-3.5.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="org.eclipse.sisu.plexus-0.3.3" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="cdi-api-1.0" level="project" />
     <orderEntry type="library" exported="" scope="RUNTIME" name="javax.inject-1" level="project" />
     <orderEntry type="library" exported="" scope="RUNTIME" name="google-api-client-appengine-1.21.0" level="project" />
     <orderEntry type="library" exported="" scope="RUNTIME" name="google-oauth-client-appengine-1.21.0" level="project" />
@@ -77,7 +117,9 @@
     <orderEntry type="library" exported="" scope="RUNTIME" name="google-api-client-1.23.0" level="project" />
     <orderEntry type="library" exported="" scope="RUNTIME" name="google-http-client-android-1.23.0" level="project" />
     <orderEntry type="library" exported="" scope="RUNTIME" name="swagger-core-1.5.9" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="guava-19.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="maven-resolver-provider-3.5.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="maven-model-builder-3.5.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="guava-20.0" level="project" />
     <orderEntry type="library" exported="" scope="RUNTIME" name="swagger-models-1.5.9" level="project" />
     <orderEntry type="library" exported="" scope="RUNTIME" name="jackson-databind-2.6.4" level="project" />
     <orderEntry type="library" exported="" scope="RUNTIME" name="jackson-annotations-2.6.4" level="project" />
@@ -92,20 +134,51 @@
     <orderEntry type="library" exported="" scope="RUNTIME" name="google-http-client-1.23.0" level="project" />
     <orderEntry type="library" exported="" scope="RUNTIME" name="jsr305-3.0.1" level="project" />
     <orderEntry type="library" exported="" scope="RUNTIME" name="slf4j-nop-1.7.21" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="appengine-tools-sdk-1.9.64" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="annotation-detector-3.0.5" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="maven-invoker-2.2" level="project" />
     <orderEntry type="library" exported="" scope="RUNTIME" name="slf4j-api-1.7.21" level="project" />
     <orderEntry type="library" exported="" scope="RUNTIME" name="swagger-annotations-1.5.9" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="commons-lang3-3.2.1" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="maven-model-3.5.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="maven-settings-builder-3.5.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="maven-artifact-3.5.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="maven-builder-support-3.5.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="commons-lang3-3.5" level="project" />
     <orderEntry type="library" exported="" scope="RUNTIME" name="validation-api-1.1.0.Final" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="maven-settings-3.5.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="maven-repository-metadata-3.5.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="maven-resolver-impl-1.0.3" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="maven-resolver-spi-1.0.3" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="maven-resolver-util-1.0.3" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="maven-resolver-api-1.0.3" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="maven-shared-utils-3.1.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="plexus-interpolation-1.24" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="plexus-sec-dispatcher-1.4" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="plexus-utils-3.0.24" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="plexus-classworlds-2.5.2" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="plexus-component-annotations-1.7.1" level="project" />
     <orderEntry type="library" exported="" scope="RUNTIME" name="jdo2-api-2.3-eb" level="project" />
     <orderEntry type="library" exported="" scope="RUNTIME" name="joda-time-2.2" level="project" />
     <orderEntry type="library" exported="" scope="RUNTIME" name="snakeyaml-1.12" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="commons-io-2.5" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="org.eclipse.sisu.inject-0.3.3" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="aopalliance-1.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="plexus-cipher-1.4" level="project" />
     <orderEntry type="library" exported="" scope="RUNTIME" name="transaction-api-1.1" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="jsr250-api-1.0" level="project" />
     <orderEntry type="library" exported="" scope="RUNTIME" name="guava-jdk5-17.0" level="project" />
     <orderEntry type="library" exported="" scope="RUNTIME" name="httpclient-4.0.1" level="project" />
     <orderEntry type="library" exported="" scope="RUNTIME" name="httpcore-4.0.1" level="project" />
     <orderEntry type="library" exported="" scope="RUNTIME" name="commons-logging-1.1.1" level="project" />
     <orderEntry type="library" exported="" scope="RUNTIME" name="commons-codec-1.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="appengine-maven-plugin-1.9.64" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="endpoints-framework-tools-2.0.9" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="endpoints-framework-2.0.9" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="maven-core-3.5.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="guice-4.0-no_aop" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="maven-plugin-api-3.5.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="org.eclipse.sisu.plexus-0.3.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="cdi-api-1.0" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="javax.inject-1" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="google-api-client-appengine-1.21.0" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="google-oauth-client-appengine-1.21.0" level="project" />
@@ -115,7 +188,9 @@
     <orderEntry type="library" exported="" scope="TEST" name="google-api-client-1.23.0" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="google-http-client-android-1.23.0" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="swagger-core-1.5.9" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="guava-19.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="maven-resolver-provider-3.5.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="maven-model-builder-3.5.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="guava-20.0" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="swagger-models-1.5.9" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="jackson-databind-2.6.4" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="jackson-annotations-2.6.4" level="project" />
@@ -130,14 +205,38 @@
     <orderEntry type="library" exported="" scope="TEST" name="google-http-client-1.23.0" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="jsr305-3.0.1" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="slf4j-nop-1.7.21" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="appengine-tools-sdk-1.9.64" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="annotation-detector-3.0.5" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="maven-invoker-2.2" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="slf4j-api-1.7.21" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="swagger-annotations-1.5.9" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="commons-lang3-3.2.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="maven-model-3.5.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="maven-settings-builder-3.5.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="maven-artifact-3.5.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="maven-builder-support-3.5.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="commons-lang3-3.5" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="validation-api-1.1.0.Final" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="maven-settings-3.5.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="maven-repository-metadata-3.5.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="maven-resolver-impl-1.0.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="maven-resolver-spi-1.0.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="maven-resolver-util-1.0.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="maven-resolver-api-1.0.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="maven-shared-utils-3.1.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="plexus-interpolation-1.24" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="plexus-sec-dispatcher-1.4" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="plexus-utils-3.0.24" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="plexus-classworlds-2.5.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="plexus-component-annotations-1.7.1" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="jdo2-api-2.3-eb" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="joda-time-2.2" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="snakeyaml-1.12" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="commons-io-2.5" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="org.eclipse.sisu.inject-0.3.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="aopalliance-1.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="plexus-cipher-1.4" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="transaction-api-1.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="jsr250-api-1.0" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="guava-jdk5-17.0" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="httpclient-4.0.1" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="httpcore-4.0.1" level="project" />
