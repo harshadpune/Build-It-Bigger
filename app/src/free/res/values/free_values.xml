@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Free - Build it Bigger</string>
+    <string name="instructions">Free App : Press the button for a delicious joke!</string>
+    <string name="flavor">free</string>
+</resources>
